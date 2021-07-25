@@ -2,7 +2,7 @@
 
 ## tarefas  
 
-## icones
+## Icones
 
 :package:novas funcionalidades
 :up: atualização
